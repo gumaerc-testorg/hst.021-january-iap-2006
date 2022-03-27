@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: de4cc6fd-0861-2dfc-00d7-df70a625b005
 resourcetype: Document
 title: hms_7881_pset_ak.pdf
 uid: 4ccc23df-c0c6-a140-7f0a-dd525fcaed34

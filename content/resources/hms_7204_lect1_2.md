@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 8328baaf-6aa1-44a9-2f5d-a0091f7b7c03
 resourcetype: Document
 title: hms_7204_lect1_2.pdf
 uid: 404c3563-763e-7fb4-b8bb-245c2a6647ca

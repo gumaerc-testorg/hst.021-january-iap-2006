@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: eb3f74fc-a276-2cbc-4bfb-11ceedb209c6
 resourcetype: Document
 title: hms_3829_fiex_01.pdf
 uid: 8c9584b9-60c7-4ab4-8220-61b9bb0d6016
