@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: This resource contains review of the final exam.
-file: /media/courses/hst-021-musculoskeletal-pathophysiology-january-iap-2006/4fd26a52b781f3a2781d7b68ec27221e_hms_8764_fiex_re.pdf
+file: /courses/hst-021-musculoskeletal-pathophysiology-january-iap-2006/4fd26a52b781f3a2781d7b68ec27221e_hms_8764_fiex_re.pdf
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -13,3 +14,4 @@ resourcetype: Document
 title: hms_8764_fiex_re.pdf
 uid: 4fd26a52-b781-f3a2-781d-7b68ec27221e
 ---
+This resource contains review of the final exam.
