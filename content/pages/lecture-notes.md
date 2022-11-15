@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section lists the lecture files as per the topics covered in the
+  course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -105,7 +107,7 @@ Rheumatic Diseases (I) (1 hr.) - _Dr. Robinson_
 Rheumatic Diseases (II), SLE, Scleroderma (1 hr.) - _Dr. Robinson_
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.2 MB]({{< baseurl >}}/resources/hms_7204_lect1_2))
+({{% resource_link 404c3563-763e-7fb4-b8bb-245c2a6647ca "PDF - 1.2 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -121,7 +123,7 @@ Rheumatic Diseases (III), Vasculitis, Gout (1 hr.) - _Dr. Robinson_
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/hms_4290_lect3))
+({{% resource_link 87e94cf2-d177-b955-acd8-6e565ff52f98 "PDF" %}})
 
 
 {{< tdclose >}}
