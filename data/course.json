@@ -31,7 +31,7 @@
     "website": "hst-021-musculoskeletal-pathophysiology-january-iap-2006"
   },
   "course_title": "Musculoskeletal Pathophysiology",
-  "course_description": "This course covers the growth, development and structure of normal bone and joints, the biomechanics of bone connective tissues, and their response to stress, calcium and phosphate homeostasis. Additional topics include regulation by parathyroid hormone and vitamin D, the pathogenesis of metabolic bone diseases and diseases of connective tissues, joints and muscle with consideration of possible mechanisms and underlying metabolic derangements.\n\n##### {{< anchor \"lecturers\" >}}{{< /anchor >}}Lecturers\n\nDr. Paul Joseph Anderson\n\nDr. Robert Horatio Brown, Jr.\n\nDr. Marie Demay\n\nDr. Stephen Martin Krane\n\nDr. Young-Jo Kim\n\nDr. Henry Jay Mankin\n\nDr. Bjorn Reino Olsen\n\nDr. John Thomas Potts\n\nDr. Alan Lewis Schiller\n\nDr. Brian Dale Snyder\n",
+  "course_description": "This course covers the growth, development and structure of normal bone and joints, the biomechanics of bone connective tissues, and their response to stress, calcium and phosphate homeostasis. Additional topics include regulation by parathyroid hormone and vitamin D, the pathogenesis of metabolic bone diseases and diseases of connective tissues, joints and muscle with consideration of possible mechanisms and underlying metabolic derangements.",
   "department_numbers": [
     "HST"
   ],
@@ -46,6 +46,7 @@
     "Exams with Solutions",
     "Lecture Notes"
   ],
-  "site_uid": "b6b5d853-aa15-4835-be64-9731b879ef55",
+  "site_uid": "fbafd802-15e8-4950-bd12-ce107c734f0c",
+  "short_id": "hst.021-january-iap-2006",
   "title": "Course Metadata"
 }
