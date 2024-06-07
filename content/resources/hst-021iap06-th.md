@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/hst-021-musculoskeletal-pathophysiology-january-iap-2006/61365026fa35911b70fa5f5dcf51a903_hst-021iap06-th.jpg
+file_size: 13557
 file_type: image/jpeg
 image_metadata:
   caption: The Gout. James Gillray, 1799. From the Philadelphia Museum of Art.

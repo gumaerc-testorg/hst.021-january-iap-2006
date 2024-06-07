@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains 4 problems on the topic of Musculoskeletal Pathophysiology.
 file: /courses/hst-021-musculoskeletal-pathophysiology-january-iap-2006/e64f03ad58f5eef1e128e8323db20863_hms_7496_probset.pdf
+file_size: 429021
 file_type: application/pdf
 learning_resource_types:
 - Assignments
