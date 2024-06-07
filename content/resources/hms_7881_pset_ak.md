@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains answer key to the problem set.
 file: /courses/hst-021-musculoskeletal-pathophysiology-january-iap-2006/4ccc23dfc0c6a1407f0add525fcaed34_hms_7881_pset_ak.pdf
+file_size: 180213
 file_type: application/pdf
 learning_resource_types:
 - Assignments
