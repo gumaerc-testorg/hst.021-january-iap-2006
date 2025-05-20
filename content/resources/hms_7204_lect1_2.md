@@ -3,7 +3,7 @@ content_type: resource
 description: This resource provides information in the topics of Inflammatory Arthropathies,
   or Inflammatory Rheumatic Diseases, Diagnosis of Arthropathies, Gout, Cox2 Inhibitors,
   Pseudogout, Psoriatic Arthritis, Rheumatic Fever, Reactive Arthritis and Conclusions.
-file: /ol-ocw-studio-app/courses/hst-021-musculoskeletal-pathophysiology-january-iap-2006/404c3563763e7fb4b8bb245c2a6647ca_hms_7204_lect1_2.pdf
+file: /courses/hst-021-musculoskeletal-pathophysiology-january-iap-2006/404c3563763e7fb4b8bb245c2a6647ca_hms_7204_lect1_2.pdf
 file_size: 1261615
 file_type: application/pdf
 learning_resource_types:
