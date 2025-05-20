@@ -3,7 +3,7 @@ content_type: resource
 description: This resource provides information on the topics of Systemic Lupus Erythematosus,
   SLE, Diffuse Systemic Sclerosis, Idiopathic Inflammatory Myopathy, Sjorgen's Syndrome
   and Vasculitis.
-file: /ol-ocw-studio-app/courses/hst-021-musculoskeletal-pathophysiology-january-iap-2006/87e94cf2d177b955acd86e565ff52f98_hms_4290_lect3.pdf
+file: /courses/hst-021-musculoskeletal-pathophysiology-january-iap-2006/87e94cf2d177b955acd86e565ff52f98_hms_4290_lect3.pdf
 file_size: 182831
 file_type: application/pdf
 learning_resource_types:

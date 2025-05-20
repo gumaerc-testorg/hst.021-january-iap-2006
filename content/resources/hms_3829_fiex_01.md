@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains 14 problem questions for the final exam.
-file: /ol-ocw-studio-app/courses/hst-021-musculoskeletal-pathophysiology-january-iap-2006/8c9584b960c74ab4822061b9bb0d6016_hms_3829_fiex_01.pdf
+file: /courses/hst-021-musculoskeletal-pathophysiology-january-iap-2006/8c9584b960c74ab4822061b9bb0d6016_hms_3829_fiex_01.pdf
 file_size: 202581
 file_type: application/pdf
 learning_resource_types:
